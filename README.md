@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/sondo"><img src="https://github.com/sondodev/sondodev/blob/main/devcard.svg" width="400" alt="Son Do's Dev Card"/></a>
+<a href="https://app.daily.dev/sondo"><img src="https://api.daily.dev/devcards/v2/hM3cTU8huU33LriCTlP0A.png?type=default&r=83q" width="356" alt="Son Do's Dev Card"/></a>
 <!--
 **sondodev/sondodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
